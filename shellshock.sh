@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Usage: ./shellshock http://example.com:PORT/cgi-bin/cgi
+
 target=$1
 
 while true
